@@ -102,3 +102,9 @@ AMZN GO ($650) · TJX GO if BURL fine ($450) · IMAX GO ($400, skip >47) · COGT
   * Don't count on post-earnings drift for large caps (Martineau 2022).
   * Execution: market buys between 10:00–11:00 ET only; never at the open or queued overnight.
   New deployment: AMZN 1,300 · TJX 900 · IMAX 700 · MU 500 · TGT 400 · MOD 300 (conditional) · COGT 200 · FIVE 0 (optional) · XENE 0–100 → ≈ $4,300–4,600 deployed, ≈ $1,400+ cash. Extra $3,600 unchanged (after Dec 11 only if flat/up).
+- 2026-11-23 ~5:45pm CT: BACKTEST RESULTS (2015–2025, real mirrored data; full: data/backtest_summary.md). HONEST HEADLINE: no setup shows a reliable edge.
+  * MU pre-earnings (E-7→E-1, N=44): mean +2.0%, median +1.2%, win 59%, not distinguishable from MU's normal drift. Holding through earnings adds ~+0.2% for ±6.5% avg move, worst −18% → SELL BEFORE REPORT (confirms plan).
+  * Holiday window Tue-before-Thanksgiving→first Jan day (N=11): TGT mean +2.8% but median ~0, win 45%; TJX +1.1% (win 64%, most consistent); AMZN +0.2% (lagged SPY 4 of last 5 yrs); SPY +0.6%. Typical in-window drawdowns 5–8% > avg gain.
+  * IMAX tentpoles (22 films): pre-release R-15→R-1 mean +3.5%, median +2.1%, win 68% (weak, t≈1.5, driven by 4 films); post-release R→R+5 mean −1.3% → sell before release (confirms plan).
+  * Dec-23→Jan losers bounce (CRM/INTU/NOW down >20%): only ~4 independent years; worked 2022, failed 2025; no better than SPY on avg → CRM is a coin flip; keep optional/half size or skip.
+  * 2×ATR stops (AMZN/TJX/TGT/IMAX, Nov 24→Jan 4): hit 22/44 times and LOWERED average return for every ticker (+0.87% → −0.87%). Implication: use smaller size + wider "disaster" stops (~3×ATR / ~10%) instead of tight 2×ATR stops. Pending decision.
