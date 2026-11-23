@@ -30,7 +30,7 @@ Every scheduled check-in must READ this file first and APPEND new findings to th
 - Bitcoin ~$64k; CLARITY Act dead (failed 49–50 Sept 15).
 - Anthropic IPO (ANT) Nov 19 at $83 — Claude is made by Anthropic: NO opinion given on ANT. Lockups Dec 15, Jan 5, Jan 19, Feb 2.
 
-## 3. CURRENT PLAN ($6,000)
+## 3. CURRENT PLAN ($6,000) — NOTE: superseded in part by PLAN REVISION v3 in LOG (Nov 23 ~5:15pm)
 | Ticker | $ | Buy zone | Stop | Target | Notes |
 |---|---|---|---|---|---|
 | AMZN | 1,300 (650 Nov 24 + 650 Nov 30) | 250–258 | 244 | 272–278 | re:Invent Nov 30–Dec 4; Cyber Week. Mon close 255.39 (IN ZONE) |
@@ -91,3 +91,14 @@ AMZN GO ($650) · TJX GO if BURL fine ($450) · IMAX GO ($400, skip >47) · COGT
 ## 8. LOG (append newest at bottom)
 - 2026-11-23 eve: Wave 1 (8 agents) + Wave 2 (9 fable agents) + 3 follow-ups complete. Plan above is current. Next: 7:41am CT check-in Tue Nov 24.
 - 2026-11-23 ~5pm CT: Cash App connection research round 2 DONE. No sanctioned live connection exists (no tracker/aggregator confirmed; SnapTrade/Plaid unconfirmed; CFPB 1033 enjoined and doesn't cover brokerage). CONFIRMED exports: (a) Transactions CSV from cash.app web (Cash App's tax page references it), (b) monthly PDF statements (Documents → Stocks → Monthly Statements), (c) per-trade confirmations (Activity → trade → … → Trade Confirmation, T+1), (d) 1099-B by Feb 15. Email confirmations may go to the Cash App email on file (not found in connected Gmail). Apex Online end-client portal (view-only, CSV export) works for other Apex brokers — unconfirmed for Cash App, worth one try after migration (needs Apex acct # from statement). Fallback: ACATS transfer to a broker with aggregator support. NEVER share Cash App login/PIN/codes with unofficial tools. ACTION: created Google Drive folder "Cash App Exports" — user drops CSV/statements/screenshots there; check-ins read it via Drive connector.
+- 2026-11-23 ~5:15pm CT: PLAN REVISION v3 (evidence review). Sizing rule: risk ~1% of account (~$60) per trade, stop ≈ 2×ATR(14), max ~25% of account in one name; for anything held through earnings/FDA, size by worst-case gap. Changes:
+  * COGT $400 → $200 max (evidence: first-cycle oncology approval ~80%; CRL gaps −30–60%; size so a 60% gap ≈ 1–2% of account). Pre-PDUFA run-up is practitioner lore, not proven. Same rule for Dec 30.
+  * MU $700 → $500 (stop 590 vs ~680 entry = 13% → $500 keeps risk ≈ $65). Pre-earnings run-up evidence (Aboody et al.): ~1.5% avg in 5 days before report for prior winners, reverses after → sell by close Dec 16/17, expect small edge.
+  * IMAX $800 → $700 (stop distance ~9%).
+  * FIVE → OPTIONAL/skip (pre-earnings edge ~1–2% avg ≈ $3–6 on $300; not worth the gap risk).
+  * MOD: only if back under $127; time stop — exit if no deal confirmation within 2–3 weeks of rumor (≈ by Dec 3). Ahern & Sosyura: only ~33% of merger rumors become bids within a year.
+  * CRM tax-loss bounce: move window to Dec 23–30 (last 3–5 trading days), HALF size ($300), sell in first 5–10 trading days of January. Large-cap evidence weak.
+  * Santa rally: no sizing up (no evidence conditional on Nov drawdown; failed last 3 years).
+  * Don't count on post-earnings drift for large caps (Martineau 2022).
+  * Execution: market buys between 10:00–11:00 ET only; never at the open or queued overnight.
+  New deployment: AMZN 1,300 · TJX 900 · IMAX 700 · MU 500 · TGT 400 · MOD 300 (conditional) · COGT 200 · FIVE 0 (optional) · XENE 0–100 → ≈ $4,300–4,600 deployed, ≈ $1,400+ cash. Extra $3,600 unchanged (after Dec 11 only if flat/up).
